@@ -1,0 +1,31 @@
+#!/bin/sed -f
+s/ i'm / i am /g
+s/ i'll / i will /g
+s/ i'd / i would /g
+s/ it's / it is /g
+s/ we'll / we will /g
+s/ it'll / it will /g
+s/ alright / all right /g
+s/ he's / he is /g
+s/ there's / there is /g
+s/ that's / that is /g
+s/ you're / you are /g
+s/ okay / ok /g
+s/ yeah / yes /g
+s/ we're / we are /g
+s/ here's / here is /g
+s/ p\.m / p\.m\. /g
+s/ pm / p m /g
+s/ a\.m / a\.m\. /g
+s/ yup / yep /g
+s/ how's / how is /g
+
+s/ anew / a new /g
+s/ videogame / video game /g
+s/ dvd / d v d /g
+s/ haha / ha ha /g
+
+s/ uh / /g
+s/ err / /g
+s/ um / /g
+s/ ah / /g
